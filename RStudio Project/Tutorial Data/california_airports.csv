@@ -1,0 +1,195 @@
+airport,airport_name,airport_city,lat,lon
+ACV,Arcata,"Arcata/Eureka, CA",40.97777778,-124.10833333
+ANA,Anaheim-Disneyland HP,"Anaheim, CA",33.81666667,-117.93333333
+APC,Napa County,"Napa, CA",38.21305556,-122.28055556
+APV,Apple Valley Airport,"Apple Valley, CA",34.57527778,-117.18611111
+AUN,Auburn Municipal,"Auburn, CA",38.95472222,-121.08166667
+AVX,Catalina,"Avalon, CA",33.405,-118.41583333
+BAB,Beale AFB,"Marysville, CA",39.13611111,-121.43666667
+BFL,Meadows Field,"Bakersfield, CA",35.43388889,-119.05777778
+BIH,Bishop Airport,"Bishop, CA",37.37305556,-118.36361111
+BLH,Blythe Airport,"Blythe, CA",33.61916667,-114.71694444
+BNG,Banning Municipal,"Banning, CA",33.9225,-116.85083333
+BUR,Bob Hope,"Burbank, CA",34.20055556,-118.35861111
+BXS,Borrego Valley,"Borrego Springs, CA",33.25916667,-116.32083333
+C01,Camarillo Airport,"Camarillo, CA",34.21361111,-119.09444444
+C02,Bakersfield Municipal,"Bakersfield, CA",35.32472222,-118.99611111
+CCR,Buchanan Field,"Concord, CA",37.98972222,-122.05694444
+CEC,Jack McNamara Field,"Crescent City, CA",41.78027778,-124.23666667
+CIB,Catalina,"Avalon, CA",33.405,-118.41583333
+CIC,Chico Municipal,"Chico, CA",39.79527778,-121.85833333
+CKE,Pearce Field,"Clear Lake, CA",38.93472222,-122.62222222
+CLD,McClellan-Palomar,"Carlsbad, CA",33.12833333,-117.28
+CLG,New Coalinga Municipal,"Coalinga, CA",36.16222222,-120.29472222
+CLR,Cliff Hatfield Memorial,"Calipatria, CA",33.13138889,-115.52138889
+CNO,Chino Airport,"Chino, CA",33.97472222,-117.63638889
+CO3,Marina Municipal,"Marina, CA",36.68166667,-121.76166667
+COA,Columbia Airport,"Columbia, CA",38.03055556,-120.41444444
+CXL,Calexico International,"Calexico, CA",32.6675,-115.5175
+DAG,Barstow/Daggett,"Daggett, CA",34.85361111,-116.78666667
+DQE,Holtville Airport,"Holtville, CA",32.845,-115.26861111
+DQI,Colusa County,"Colusa, CA",39.17888889,-121.99333333
+DTH,Furnace Creek,"Death Valley, CA",36.46055556,-116.87972222
+DWA,Yolo County,"Davis/Woodland/Winters, CA",38.57944444,-121.85694444
+EDW,Edwards AFB,"Edwards, CA",34.91805556,-117.87916667
+EED,Needles Airport,"Needles, CA",34.76638889,-114.62333333
+EKA,Murray Field,"Eureka, CA",40.80333333,-124.11277778
+EMT,San Gabriel Valley,"El Monte, CA",34.08611111,-118.03472222
+F70,French Valley,"Murrieta/Temecula, CA",33.57416667,-117.12833333
+FAT,Fresno Yosemite International,"Fresno, CA",36.77666667,-119.71888889
+FCH,Fresno Chandler Executive,"Fresno, CA",36.73222222,-119.82027778
+FOB,Fort Bragg Airport,"Fort Bragg, CA",39.47444444,-123.79555556
+FQB,San Nicolas Island NOLF,"Ventura, CA",33.23972222,-119.45833333
+FUL,Fullerton Municipal,"Fullerton, CA",33.87194444,-117.97972222
+FVE,Fallbrook Community Airpark,"Fallbrook, CA",33.35416667,-117.25083333
+FVP,Gansner Field,"Quincy, CA",39.94388889,-120.94527778
+FVV,Kern Valley,"Kernville, CA",35.72833333,-118.41972222
+HAF,Half Moon Bay Airport,"Half Moon Bay, CA",37.51333333,-122.50111111
+HHR,Jack Northrop Field/Hawthorne Municipal,"Hawthorne, CA",33.92277778,-118.33527778
+HLI,Hollister Municipal,"Hollister, CA",36.89333333,-121.41027778
+HMT,Hemet-Ryan,"Hemet, CA",33.73388889,-117.0225
+HWD,Hayward Executive,"Hayward, CA",37.65888889,-122.12166667
+IPL,Imperial County,"El Centro, CA",32.83416667,-115.57888889
+IYK,Inyokern Airport,"Inyokern, CA",35.65861111,-117.82944444
+JBK,Berkeley Municipal Heliport,"Oakland, CA",37.86666667,-122.3
+JBP,Commerce Business Park Heliport,"Commerce, CA",33.98666667,-118.16055556
+JCC,China Basin Heliport,"San Francisco, CA",37.8,-122.46666667
+JCE,Oakland Convention Center Heliport,"Oakland, CA",37.80555556,-122.275
+JID,Civic Financial Center Heliport,"City of Industry, CA",34.02444444,-117.95916667
+JMC,Marin County Heliport,"San Francisco, CA",37.87861111,-122.50972222
+JNP,Newport Beach Airport,"Newport Beach, CA",33.61388889,-117.88972222
+JOC,Centerport Heliport,"Santa Ana, CA",33.66666667,-117.86666667
+JOR,Orange County Heliport,"Orange, CA",33.84805556,-117.85
+JZL,San Clemente Island Nalf,"San Clemente Island, CA",33.02277778,-118.58861111
+JZX,Angwin-Parrett Field,"Angwin, CA",38.58,-122.43555556
+LAX,Los Angeles International,"Los Angeles, CA",33.9425,-118.40722222
+LGB,Long Beach Airport,"Long Beach, CA",33.8175,-118.15138889
+LPC,Lompoc Airport,"Lompoc, CA",34.66555556,-120.4675
+LRO,Sharpe AFF,"Lathrop, CA",37.83666667,-121.27222222
+LSN,Los Banos Municipal,"Los Banos, CA",37.06388889,-120.86972222
+LVK,Livermore Municipal,"Livermore, CA",37.69333333,-121.82027778
+MAE,Madera Municipal,"Madera, CA",36.98638889,-120.1125
+MCC,McClellan Airfield,"Sacramento, CA",38.66777778,-121.40055556
+MCE,Merced Regional/Macready Field,"Merced, CA",37.28472222,-120.51388889
+MER,Castle,"Atwater, CA",37.38055556,-120.56805556
+MHR,Sacramento Mather,"Sacramento, CA",38.55527778,-121.29722222
+MHV,Mojave Air and Space Port,"Mojave, CA",35.05888889,-118.15055556
+MIT,Shafter - Minter Field,"Shafter, CA",35.5075,-119.19222222
+MMH,Mammoth Lakes Airport,"Mammoth Lakes, CA",37.63111111,-118.85138889
+MOD,Modesto City-County-Harry Sham Field,"Modesto, CA",37.62583333,-120.95444444
+MRY,Monterey Regional,"Monterey, CA",36.58694444,-121.84305556
+MYF,Montgomery Gibbs Executive,"San Diego, CA",32.81583333,-117.13944444
+MYV,Yuba County,"Marysville, CA",39.09777778,-121.56972222
+NGZ,Alameda NAS,"Alameda, CA",37.79055556,-122.32555556
+NJK,El Centro NAF,"El Centro, CA",32.82916667,-115.67166667
+NKX,Miramar MCAS,"San Diego, CA",32.86861111,-117.14305556
+NLC,Lemoore NAS,"Lemoore, CA",36.33305556,-119.95222222
+NOT,Gnoss Field,"Novato, CA",38.14361111,-122.55722222
+NTD,Point Mugu NAS,"Port Hueneme, CA",34.11916667,-119.11972222
+NUQ,Moffett Federal Airfield,"Mountain View, CA",37.41611111,-122.04916667
+NZJ,El Toro MCAS,"Santa Ana, CA",33.6675,-117.71833333
+NZY,North Island NAS,"San Diego, CA",32.69833333,-117.21305556
+O85,Benton Field,"Redding, CA",40.57361111,-122.40722222
+OAK,Metropolitan Oakland International,"Oakland, CA",37.72138889,-122.22111111
+OCN,Bob Maxwell Memorial Airfield,"Oceanside, CA",33.21805556,-117.35138889
+ONT,Ontario International,"Ontario, CA",34.05611111,-117.60111111
+OVE,Oroville Municipal,"Oroville, CA",39.48777778,-121.62194444
+OXR,Oxnard,"Oxnard/Ventura, CA",34.20083333,-119.20722222
+OYS,Yosemite National Park Airport,"Yosemite National Park, CA",37.75,-119.58333333
+PAO,Palo Alto Airport,"Palo Alto, CA",37.46111111,-122.115
+PMD,Palmdale USAF Plant 42,"Palmdale, CA",34.62944444,-118.08444444
+POC,Brackett Field,"La Verne, CA",34.09166667,-117.78166667
+PRB,Paso Robles Municipal,"Paso Robles, CA",35.67277778,-120.62694444
+PSP,Palm Springs International,"Palm Springs, CA",33.82972222,-116.50666667
+PTV,Porterville Municipal,"Porterville, CA",36.02944444,-119.06277778
+PVF,Placerville Airport,"Placerville, CA",38.72416667,-120.75333333
+QAX,Marina del Ray Airport,"Marina del Ray, CA",33.96666667,-118.45
+QEM,Emerald Bay Airport,"Emerald Bay, CA",33.55833333,-117.71111111
+QFX,Camp Fox,"Avalon, CA",33.40027778,-118.38333333
+QQM,Shingletown Airport,"Shingletown, CA",40.52222222,-121.81666667
+QQN,Woodlake Airport,"Woodlake, CA",36.39888889,-119.10694444
+QQQ,Nevada County Air Park,"Grass Valley, CA",39.22416667,-121.00305556
+QQX,Healdsburg Municipal,"Healdsburg, CA",38.65277778,-122.89861111
+QRD,Redondo Beach Airport,"Redondo Beach, CA",33.81694444,-118.36666667
+RAL,Riverside Municipal,"Riverside, CA",33.95194444,-117.445
+RBF,Big Bear City Airport,"Big Bear City, CA",34.26388889,-116.85611111
+RBL,Red Bluff Municipal,"Red Bluff, CA",40.15027778,-122.25222222
+RDD,Redding Municipal,"Redding, CA",40.50888889,-122.29333333
+REB,Redlands Municipal,"Redlands, CA",34.08527778,-117.14638889
+RIR,Flabob,"Riverside, CA",33.98888889,-117.41
+RIV,March ARB,"Riverside, CA",33.88083333,-117.25944444
+RQA,Lone Pine Death Valley,"Lone Pine, CA",36.58861111,-118.04944444
+RQD,William Robert Johnston Municipal,"Mendota, CA",36.75861111,-120.37138889
+RQK,China Lake Naws,"China Lake, CA",35.68555556,-117.69194444
+RQQ,Watts/Woodland,"Woodland, CA",38.67388889,-121.87194444
+RQU,Wasco-Kern County,"Wasco, CA",35.61972222,-119.35361111
+RTO,Morrow Field,"Colton, CA",34.05638889,-117.365
+SAC,Sacramento Executive,"Sacramento, CA",38.5125,-121.49333333
+SAN,San Diego International,"San Diego, CA",32.73361111,-117.18972222
+SBA,Santa Barbara Municipal,"Santa Barbara, CA",34.42611111,-119.84138889
+SBD,San Bernardino International,"San Bernardino, CA",34.09527778,-117.235
+SBP,San Luis County Regional,"San Luis Obispo, CA",35.23722222,-120.6425
+SBT,Tri-City,"San Bernardino, CA",34.0675,-117.27472222
+SCK,Stockton Metropolitan,"Stockton, CA",37.89416667,-121.23833333
+SDM,Brown Field Municipal,"San Diego, CA",32.57222222,-116.98027778
+SEE,Gillespie Field,"San Diego, CA",32.82611111,-116.9725
+SFO,San Francisco International,"San Francisco, CA",37.61888889,-122.37555556
+SIY,Siskiyou County,"Montague, CA",41.78138889,-122.46805556
+SJC,Norman Y. Mineta San Jose International,"San Jose, CA",37.36305556,-121.92861111
+SMF,Sacramento International,"Sacramento, CA",38.69555556,-121.59083333
+SMO,Santa Monica Municipal,"Santa Monica, CA",34.01583333,-118.45138889
+SMX,Santa Maria Public/Capt. G. Allan Hancock Field,"Santa Maria, CA",34.9,-120.45805556
+SNA,John Wayne Airport-Orange County,"Santa Ana, CA",33.67555556,-117.86833333
+SNS,Salinas Municipal,"Salinas/Monterey, CA",36.66277778,-121.60638889
+SPQ,Catalina Air-Sea Terminal Heliport,"San Pedro, CA",33.74861111,-118.275
+SQA,Santa Ynez Airport,"Santa Ynez, CA",34.60694444,-120.07555556
+SQL,San Carlos Airport,"San Carlos, CA",37.51194444,-122.24944444
+SRF,Hamilton AFB,"Novato, CA",38.06833333,-122.50194444
+STS,Charles M. Schulz - Sonoma County,"Santa Rosa, CA",38.50972222,-122.81277778
+SUU,Travis AFB,"Fairfield, CA",38.26444444,-121.92416667
+SZP,Santa Paula Airport,"Santa Paula, CA",34.34694444,-119.06166667
+TKF,Truckee Tahoe,"Truckee, CA",39.32,-120.13944444
+TLR,Mefford Field,"Tulare, CA",36.15666667,-119.32666667
+TNP,Twentynine Palms Airport,"Twentynine Palms, CA",34.13166667,-115.94583333
+TOA,Zamperini Field,"Torrance, CA",33.80333333,-118.33972222
+TRH,Trona Airport,"Trona, CA",35.81277778,-117.32694444
+TRM,Jacqueline Cochran Regional,"Thermal, CA",33.62666667,-116.15972222
+TSP,Tehachapi Municipal,"Tehachapi, CA",35.135,-118.43916667
+TVL,Lake Tahoe Airport,"Lake Tahoe, CA",38.89388889,-119.99527778
+TWH,Two Harbors Airport,"Two Harbors, CA",33.425,-118.50833333
+UDD,Bermuda Dunes Airport,"Bermuda Dunes, CA",33.74833333,-116.27472222
+UKI,Ukiah Municipal,"Ukiah, CA",39.12583333,-123.20083333
+UXD,Chowchilla Airport,"Chowchilla, CA",37.11333333,-120.24694444
+UXK,Petaluma Municipal,"Petaluma, CA",38.25777778,-122.60527778
+VBG,Vandenberg AFB,"Lompoc, CA",34.73722222,-120.58444444
+VCV,Southern California Logistics,"Victorville, CA",34.5975,-117.38305556
+VIS,Visalia Municipal,"Visalia, CA",36.31861111,-119.39277778
+VNY,Van Nuys Airport,"Van Nuys, CA",34.20972222,-118.49
+VWD,Hanford Municipal,"Hanford, CA",36.31666667,-119.62777778
+VWI,California City Municipal,"California City, CA",35.15111111,-118.01666667
+VWM,Weed Airport,"Weed, CA",41.48083333,-122.45444444
+VWQ,Kingdon Airpark,"Lodi, CA",38.09166667,-121.35944444
+VWR,Independence Airport,"Independence, CA",36.81638889,-118.205
+VZL,Los Alamitos AAF,"Los Alamitos, CA",33.79,-118.05138889
+WBH,Commerce/Montebello Heliport,"Commerce/Montebello, CA",34.01666667,-118.13333333
+WBY,Downtown Airport,"Downtown, CA",34.0525,-118.25944444
+WJF,General William J. Fox Airfield,"Lancaster, CA",34.74111111,-118.21861111
+WLW,Willows Glenn County,"Willows, CA",39.51583333,-122.21722222
+WQD,Tulelake Municipal,"Tulelake, CA",41.89055556,-121.36055556
+WQE,Dinsmore Airport,"Dinsmore, CA",40.49194444,-123.59833333
+WQG,Hesperia Airport,"Hesperia, CA",34.37694444,-117.31611111
+WQH,Butte Valley,"Dorris, CA",41.88722222,-121.97555556
+WQO,Rosamond Skypark,"Rosamond, CA",34.87055556,-118.20555556
+WQP,Oceano County,"Oceano, CA",35.10138889,-120.62222222
+WVI,Watsonville Municipal,"Watsonville, CA",36.93555556,-121.78944444
+XXN,Ells Field-Willits Municipal,"Willits, CA",39.45138889,-123.37222222
+XXP,Lampson Field,"Lakeport, CA",38.99055556,-122.90083333
+XXR,Mariposa-Yosemite,"Mariposa, CA",37.51083333,-120.03944444
+XXY,Rohnerville,"Fortuna, CA",40.55388889,-124.13277778
+ZXC,Ward Field,"Gasquet, CA",41.84555556,-123.98472222
+ZXT,Cloverdale Municipal,"Cloverdale, CA",38.77638889,-122.9925
+ZXW,Paradise Skypark,"Paradise, CA",39.71055556,-121.61638889
+CA6,Chemehuevi Valley Airport,"Chemehuevi Valley, CA",34.52888889,-114.43194444
+CA7,Tracy Municipal,"Tracy, CA",37.68888889,-121.44166667
+WHP,Whiteman,"Los Angeles, CA",34.25944444,-118.41333333
+C1A,Del Mar Farms,"Patterson, CA",37.54638889,-121.15861111
